@@ -46,7 +46,8 @@ const sayHiToGrandma = string;
     return "YES INDEED!";
     break;
     
-    case "I love you, Grandma.": console.log ("I love you, too.");
+    case sayHiToGrandma === "I love you, Grandma.":
+    return "I love you, too.";
     break;
   }}
 
