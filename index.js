@@ -57,5 +57,6 @@ const sayHiToGrandma = string;
     return "I can't hear you!";
     case "HELLO":
     return "YES INDEED!";
+    default: null;
   }
 }
