@@ -47,7 +47,7 @@ const sayHiToGrandma = string;
     case sayHiToGrandma === "I love you, Grandma.":
     return "I love you, too.";
     break;
-    default
+    default: null;
   }
 }
 
