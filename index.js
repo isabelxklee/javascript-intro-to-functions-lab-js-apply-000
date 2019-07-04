@@ -47,5 +47,10 @@ const sayHiToGrandma = string;
   }
 }
 
+function sayHiToGrandma(string) {
+  if (sayHiToGrandma === "hello");
+  return "I can't hear you!";
+}
+
 
 
