@@ -30,7 +30,7 @@ function sayHiToGrandma(string) {
 }
 */
 
-/// new grandma functions
+/* new grandma functions
 function sayHiToGrandma(string) {
 const sayHiToGrandma = string;
   switch (sayHiToGrandma) {
@@ -40,6 +40,8 @@ const sayHiToGrandma = string;
     return "YES INDEED!";
   }
 }
+
+*/
 
 function sayHiToGrandma(string) {
   if (string === "I love you, Grandma.");
