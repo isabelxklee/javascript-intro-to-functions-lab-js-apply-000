@@ -24,13 +24,11 @@ function sayHiToGrandma(string) {
   return `I can't hear you!`;
 }
 
-*/
-
 function sayHiToGrandma(string) {
   if (sayHiToGrandma === "hello");
   return "I can't hear you!";
 }
-
+*/
 
 /// new grandma functions
 function sayHiToGrandma(string) {
