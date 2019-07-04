@@ -36,6 +36,8 @@ function sayHiToGrandma(string) {
 
 /// new grandma functions
 function sayHiToGrandma(string) {
+const sayHiToGrandma = 
+
 let sayHiToGrandma = "hello";
   switch (sayHiToGrandma) {
     case "hello": console.log ("I can't hear you!");
