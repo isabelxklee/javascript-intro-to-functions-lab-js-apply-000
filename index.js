@@ -36,14 +36,8 @@ const sayHiToGrandma = string;
   switch (sayHiToGrandma) {
     case sayHiToGrandma === "hello":
     return "I can't hear you!";
-    break;
     case sayHiToGrandma === "HELLO":
     return "YES INDEED!";
-    break;
-    case sayHiToGrandma === "I love you, Grandma.":
-    return "I love you, too.";
-    break;
-    default: null;
   }
 }
 
