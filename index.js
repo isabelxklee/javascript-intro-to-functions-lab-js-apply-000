@@ -44,12 +44,6 @@ const sayHiToGrandma = string;
 function sayHiToGrandma(string) {
   if (string === "I love you, Grandma.");
   return "I love you, too.";
+} {else (string === "hello");
+  return "I can't hear you!"
 }
-
-function sayHiToGrandma(string) {
-  if (string === "hello");
-  return "I can't hear you!";
-}
-
-
-
