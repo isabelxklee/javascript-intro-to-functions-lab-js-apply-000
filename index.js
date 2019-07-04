@@ -53,7 +53,7 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string) {
 const sayHiToGrandma = string;
   switch (sayHiToGrandma) {
-    case "hello" :
+    case "hello":
     return "I can't hear you!";
     case sayHiToGrandma === "HELLO":
     return "YES INDEED!";
